@@ -1,2 +1,2 @@
 # First-repository
-authour-nicantha
+authour-clanet
